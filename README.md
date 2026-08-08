@@ -49,5 +49,5 @@ Available formats:
 
 ### AppImage
 ```bash
-chmod +x Serial-Port-Monitor-*.AppImage
-./Serial-Port-Monitor-*.AppImage
+chmod +x VTalk-*.AppImage
+./VTalk-*.AppImage
