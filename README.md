@@ -19,7 +19,7 @@ The name is a tribute to a friend who made one in C for DOS that I used for a lo
 
 ## Screenshots
 
-ScreenShot from VTalk [screenshot](https://github.com/MonsterMaze/Serial-Port-Monitor/images/screenshot1.png)
+ScreenShot from VTalk [screenshot](images/screenshot1.png)
 
 ---
 
