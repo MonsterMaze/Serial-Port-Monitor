@@ -4,7 +4,7 @@ A simple and lightweight **Serial (RS232) Port Terminal** written in **Gambas 3*
 
 Send and receive data through serial ports easily.
 
-The name is a tribute to a friend who made one in C for DOS that I used for a long time.
+The name is a tribute to a friend who made one in C for DOS (CTALK) that I used for a long time.
 
 ---
 
